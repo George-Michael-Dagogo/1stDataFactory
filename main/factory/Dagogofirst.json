@@ -1,0 +1,9 @@
+{
+	"name": "Dagogofirst",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "28e2a583-1ac1-41d1-bd41-37c853b872c3",
+		"tenantId": "144a4907-70c3-4ddf-80c8-2376ade91b0e"
+	}
+}
